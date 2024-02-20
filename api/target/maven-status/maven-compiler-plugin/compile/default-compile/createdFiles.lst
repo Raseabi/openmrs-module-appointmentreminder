@@ -1,0 +1,5 @@
+org/openmrs/module/appointmentreminder/api/dao/AppointmentreminderDao.class
+org/openmrs/module/appointmentreminder/api/impl/AppointmentreminderServiceImpl.class
+org/openmrs/module/appointmentreminder/AppointmentreminderActivator.class
+org/openmrs/module/appointmentreminder/AppointmentreminderConfig.class
+org/openmrs/module/appointmentreminder/api/AppointmentreminderService.class

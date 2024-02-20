@@ -1,0 +1,5 @@
+/home/junior/workspace/appointmentreminder/api/src/main/java/org/openmrs/module/appointmentreminder/api/impl/AppointmentreminderServiceImpl.java
+/home/junior/workspace/appointmentreminder/api/src/main/java/org/openmrs/module/appointmentreminder/AppointmentreminderActivator.java
+/home/junior/workspace/appointmentreminder/api/src/main/java/org/openmrs/module/appointmentreminder/api/dao/AppointmentreminderDao.java
+/home/junior/workspace/appointmentreminder/api/src/main/java/org/openmrs/module/appointmentreminder/api/AppointmentreminderService.java
+/home/junior/workspace/appointmentreminder/api/src/main/java/org/openmrs/module/appointmentreminder/AppointmentreminderConfig.java
